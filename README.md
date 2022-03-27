@@ -1,4 +1,4 @@
-# Power-BI-Practice-Dashboards
+# Power-BI-Dashboards
 Here I have Uploaded some of my practiced dashboards using Power BI
 
 # Dashboards
