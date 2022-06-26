@@ -1,10 +1,10 @@
 # Power-BI-Dashboards
-Here I have Uploaded some of my dashboards created using Power BI. Datum are taken from open sources such as kaggle, Gihub, etc..
+Here I have Uploaded some of my dashboards created using Power BI. Datum are taken from open sources such as kaggle, Gihub,Maven Analytics, Onyx Data, etc..
 
 # Dashboards
 ##### Click on Dashboard of any project to check my Dashboards
 
-\# | Title | Dashboard | PDF | Source_Data
+\# | Title | Dashboard | PPT | Source_Data
 ---|---|---|---|---|
 01 | Adventure Work Cycles Sales Dashboard | [Dashboard](https://app.powerbi.com/reportEmbed?reportId=5daba9c7-3cf7-479b-9e49-8e4eab1cbf8e&autoAuth=true&ctid=a5bd300c-c3b3-41d8-87e0-1f5c8d364af3&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWVhc3QtYXNpYS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D) | [PPT](https://docs.google.com/presentation/d/16YuOUlGMj1mEf9t_KEh6G-zP0XlvupiJ/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true) | [Data Files](https://drive.google.com/drive/folders/1I8AGDnzcgn2h1FeSJRKIZv_9yf8XPGXT?usp=sharing)
 02 | Maven Market Sales Dashboard | [Dashboard](https://app.powerbi.com/reportEmbed?reportId=a022be1d-1a04-4c58-8047-3c75a5bbff9a&autoAuth=true&ctid=a5bd300c-c3b3-41d8-87e0-1f5c8d364af3&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWVhc3QtYXNpYS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D) | [PPT](https://docs.google.com/presentation/d/1lmTb3II73ltVeOGMuNGCKruA7JnK-Y-C/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true) | [Data Files](https://drive.google.com/drive/folders/1yjhOqNgesskio7WWIYHrCNbrW3QFX8Gv?usp=sharing)
