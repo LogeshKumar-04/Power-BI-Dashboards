@@ -1,8 +1,7 @@
 # Power-BI-Dashboards
-Here I have Uploaded some of my dashboards created using Power BI. Datum are taken from open sources such as kaggle, Gihub,Maven Analytics, Onyx Data, etc..
+Here I have Uploaded some of my dashboards created using Power BI. Data taken from open sources such as kaggle, Gihub,Maven Analytics, Onyx Data, etc..
 
 # Dashboards
-##### Click on Dashboard of any project to check my Dashboards
 
 \# | Title | Dashboard | PPT | Source_Data
 ---|---|---|---|---|
