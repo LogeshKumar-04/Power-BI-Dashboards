@@ -1,5 +1,5 @@
 # Power-BI-Reports
-Here I have some of my reports and dashboards created using Power BI. Data were taken from open sources such as kaggle, Gihub,Maven Analytics, Onyx Data, etc..
+Here I have some of reports and dashboards created using Power BI. Data were taken from open sources such as kaggle, Gihub,Maven Analytics, Onyx Data, etc..
 
 # Reports and Dashboards
 
